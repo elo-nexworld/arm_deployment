@@ -20,6 +20,7 @@ steps:
     location: 'France Central'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/elo-nexworld/arm_deployment/main/WebSite.json'
+    ScriptArguments: -TemplateParameterFile \WebSite.parameters.json
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 
