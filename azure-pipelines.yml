@@ -19,7 +19,7 @@ steps:
     resourceGroupName: 'arm_rg'
     location: 'France Central'
     templateLocation: 'URL of the file'
-    csmFileLink: 'https://raw.githubusercontent.com/elo-nexworld/arm_deployment/main/azuredeploy.json'
+    csmFileLink: 'https://raw.githubusercontent.com/elo-nexworld/arm_deployment/main/WebSite.json'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
 
