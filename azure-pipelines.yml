@@ -23,4 +23,3 @@ steps:
     csmParametersFileLink: 'https://raw.githubusercontent.com/elo-nexworld/arm_deployment/main/WebSite.parameters.json'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
-
